@@ -116,7 +116,7 @@
       }
     }
   },
-  "url": "https://github.com/Lonesomechunk/combinationweapons",
-  "manifest": "https://raw.githubusercontent.com/Lonesomechunk/combinationweapons/master/module.json",
-  "download": "https://github.com/Lonesomechunk/combinationweapons/archive/refs/heads/main.zip"
+  "url": "https://github.com/Lonesomechunk/CombinationWeaponsUnleashed",
+  "manifest": "https://raw.githubusercontent.com/Lonesomechunk/CombinationWeaponsUnleashed/master/module.json",
+  "download": "https://github.com/Lonesomechunk/CombinationWeaponsUnleashed/archive/refs/heads/main.zip"
 }

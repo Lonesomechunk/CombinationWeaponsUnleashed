@@ -1,0 +1,7 @@
+2025/02/28-23:28:02.023 851c Recovering log #2802
+2025/02/28-23:28:02.026 851c Delete type=0 #2802
+2025/02/28-23:28:02.027 851c Delete type=3 #2800
+2025/02/28-23:28:45.460 d95c Level-0 table #2807: started
+2025/02/28-23:28:45.460 d95c Level-0 table #2807: 0 bytes OK
+2025/02/28-23:28:45.461 d95c Delete type=0 #2805
+2025/02/28-23:28:45.461 d95c Manual compaction at level-0 from '!items!4y3K4DCQWbHtoV5P' @ 72057594037927935 : 1 .. '!items!wFEw8xY2CSQ93KcZ' @ 0 : 0; will stop at (end)

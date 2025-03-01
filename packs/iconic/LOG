@@ -1,0 +1,5 @@
+2025/02/28-23:51:01.076 c2d0 Recovering log #31
+2025/02/28-23:51:01.077 c2d0 Level-0 table #33: started
+2025/02/28-23:51:01.081 c2d0 Level-0 table #33: 315496 bytes OK
+2025/02/28-23:51:01.084 c2d0 Delete type=0 #31
+2025/02/28-23:51:01.084 c2d0 Delete type=3 #30

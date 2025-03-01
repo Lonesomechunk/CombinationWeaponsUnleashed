@@ -1,0 +1,109 @@
+{
+  "id": "combination-weapons-unleashed",
+  "title": "Combination Weapons Unleashed",
+  "description": "Leaping into battle using the recoil of their weaponry and carving down enemies with bullets and steel, Blitzfire Warriors are a force to be reckoned with on the battlefield. From the Gunpowder Combination Weapons of Alkenstar or the Transforming Combination Weapons of Ustalav, these weapons take great skill to master. If you want to make the most of Combination Weapons in Pathfinder 2e to bring out their full, unrealized potential, Combination Weapons Unleashed is for you!",
+  "version": "2.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12.331"
+  },
+  "authors": [
+    {
+      "name": "Conner Berkheiser",
+      "discord": "lonesomechunk",
+      "flags": {}
+    },
+    {
+      "name": "Ruben Salazar (Lyon)",
+      "discord": "lyon_naglfar",
+      "flags": {}
+    }
+  ],
+  "packs": [
+    {
+      "name": "combination-player-options",
+      "label": "Player Options",
+      "banner": "modules/combination-weapons-unleashed/assets/banners/banner1.webp",
+      "path": "packs/player-options",
+      "type": "Item",
+      "system": "pf2e"
+    },
+    {
+      "name": "combination-others",
+      "label": "Others",
+      "banner": "modules/combination-weapons-unleashed/assets/banners/banner2.webp",
+      "path": "packs/others",
+      "type": "Item",
+      "system": "pf2e"
+    },
+    {
+      "name": "combination-journal",
+      "label": "Journal",
+      "banner": "modules/combination-weapons-unleashed/assets/banners/banner3.webp",
+      "path": "packs/journal",
+      "type": "JournalEntry",
+      "system": "pf2e"
+    },
+    {
+      "name": "combination-iconic",
+      "label": "Iconic",
+      "banner": "modules/combination-weapons-unleashed/assets/banners/banner4.webp",
+      "path": "packs/iconic",
+      "type": "Actor",
+      "system": "pf2e"
+    }
+  ],
+  "relationships": {
+    "systems": [{
+      "id": "pf2e",
+      "type": "system",
+      "manifest": "https://github.com/foundryvtt/pf2e/releases/latest/download/system.json",
+      "compatibility": {
+        "minimum": "6.9.0",
+        "verified": "6.9.0"
+      }
+    }]
+  },
+  "packFolders": [
+    {
+      "name": "Golarion Unleashed",
+      "sorting": "a",
+      "packs": [],
+      "folders": [
+        {
+          "name": "Combination Weapons Unleashed",
+          "sorting": "m",
+          "packs": [
+            "combination-player-options",
+            "combination-others",
+            "combination-journal",
+            "combination-iconic"
+          ]
+        }
+      ]
+    }
+  ],
+  "flags": {
+  "combination-weapons-unleashed": {
+    "pf2e-homebrew": {
+      "baseWeapons": {
+        "gunchucks": "Gunchucks",
+        "blast-gauntlets": "Blast Gauntlets",
+        "rifle-scythe": "Rifle Scythe",
+        "burst-saber": "Burst Saber",
+        "black-powder-nodachi": "Black Powder Nodachi",
+        "scatter-axe": "Scatter Axe",
+        "gatling-glaive": "Gatling Glaive",
+        "bowblade": "Bowblade",
+        "crossbow-pick": "Crossbow Pick",
+        "whip-cane": "Whip Cane",
+        "dualwind": "Dualwind",
+        "axeblade": "Axeblade"
+      }
+      }
+    }
+  },
+  "url": "https://github.com/Lonesomechunk/CombinationWeaponsUnleashed",
+  "manifest": "https://raw.githubusercontent.com/Lonesomechunk/CombinationWeaponsUnleashed/master/module.json",
+  "download": "https://github.com/Lonesomechunk/CombinationWeaponsUnleashed/archive/refs/heads/main.zip"
+}
